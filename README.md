@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Deployment
+This a simple website project for showing 
 
 ## Purpose
 
