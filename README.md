@@ -8,3 +8,5 @@ This a simple website project for showing
 ## Purpose
 
 Sample website with plenty of files for demos
+As stated above
+This is project
