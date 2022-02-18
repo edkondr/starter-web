@@ -10,6 +10,7 @@ This a simple website project for showing
 Sample website with plenty of files for demos
 As stated above
 This is project
+Please fork
 
 ### Copuright
 Git tranning 2022
