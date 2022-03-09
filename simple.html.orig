@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <!-- 
 Copyright GIT 2022.
+<<<<<<< HEAD
 Some silly changes from master
+=======
+These changes are from feature
+>>>>>>> 8901bca (fb adding trouble)
 -->
 <head>
 	<title>An example new site</title>
@@ -18,7 +22,11 @@ Some silly changes from master
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
+<<<<<<< HEAD
+			Just stuff for now
+=======
 			Just nothing but trouble
+>>>>>>> 8901bca (fb adding trouble)
 		</p>
 	</main>
 	<footer class="container">
