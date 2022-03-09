@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Add line text.
+This repository is for showing how Git and GitHub work. Add line text. Add more..
 
 ## Deployment
 This a simple website project for showing 
